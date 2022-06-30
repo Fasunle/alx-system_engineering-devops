@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -o ':' | wc -l
+grep -o '/' | wc -l
